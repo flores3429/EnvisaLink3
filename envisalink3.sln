@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "envisalink3", "envisalink3\envisalink3.vcxproj", "{173D5335-5FD3-43D0-B047-E609C9CEBC09}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libel3", "libel3\libel3.vcxproj", "{3665D403-C7A3-4410-BDBF-3AA1CAF94711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173D5335-5FD3-43D0-B047-E609C9CEBC09}.Debug|Win32.ActiveCfg = Debug|Win32
+		{173D5335-5FD3-43D0-B047-E609C9CEBC09}.Debug|Win32.Build.0 = Debug|Win32
+		{173D5335-5FD3-43D0-B047-E609C9CEBC09}.Release|Win32.ActiveCfg = Release|Win32
+		{173D5335-5FD3-43D0-B047-E609C9CEBC09}.Release|Win32.Build.0 = Release|Win32
+		{3665D403-C7A3-4410-BDBF-3AA1CAF94711}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3665D403-C7A3-4410-BDBF-3AA1CAF94711}.Debug|Win32.Build.0 = Debug|Win32
+		{3665D403-C7A3-4410-BDBF-3AA1CAF94711}.Release|Win32.ActiveCfg = Release|Win32
+		{3665D403-C7A3-4410-BDBF-3AA1CAF94711}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
